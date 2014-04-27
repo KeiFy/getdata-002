@@ -12,4 +12,5 @@ this will result in two csv files being written:
 * measurements_mean_std.txt containing only the mean and standard deviation for each measurement
 * activity_subject_means.txt containing the averages of the mean and the standard deviation per unique (activity, subject) pair
 
-see CodeBook.md for a detailed description of all the variables.
+see CodeBook.md for description of the extraction process and the
+columns in the two files.

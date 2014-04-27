@@ -18,7 +18,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 * join activity dataset with descriptive labels
 * join measurements dataset with activity labels
 * write this first result data set to csv file "measurements_mean_std.txt"
-* join subject ids
+* join previous result data set with subject ids
 * summarize means per unique (activity, subject) pair
 * write this second result data set to csv file "activity_subject_means.txt"
 
