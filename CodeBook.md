@@ -25,7 +25,9 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 ## the meaning of the columns in measurements_mean_std.txt is as follows:
 
-| activity | descriptive label of activity |
+column   | description
+---------|------------------------------
+activity | descriptive label of activity
 
 all the other columns list the measurements as described in the
 features_info.txt file in the original raw data set.
@@ -33,8 +35,10 @@ features_info.txt file in the original raw data set.
 
 ## the meaning of the columns in activity_subject_means.txt is as follows:
 
-| activity | descriptive label of activity |
-| subject | test subject id |
+column   | description
+---------|------------------------------
+activity | descriptive label of activity
+subject  | test subject id
 
 all the other columns list the measurements as described in the
 features_info.txt file in the original raw data set.
